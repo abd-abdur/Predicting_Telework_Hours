@@ -1,0 +1,75 @@
+Characteristic,Total persons  at work1,Total,Teleworked some hours2,Teleworked all hours,Persons who did not telework or work at home for pay,Total persons  at work1,Total,Teleworked some hours2,Teleworked all hours,Persons who did not telework or work at home for pay
+"Total, 16 years and over",157329,37340,19819,17521,119989,100,23.7,12.6,11.1,76.3
+    Full-time workers,130756,32816,18172,14644,97939,100,25.1,13.9,11.2,74.9
+    Part-time workers,26573,4524,1648,2876,22049,100,17,6.2,10.8,83
+"Management, professional, and related occupations",68917,27102,15042,12060,41815,100,39.3,21.8,17.5,60.7
+"    Management, business, and financial operations occupations",30097,13977,7488,6489,16120,100,46.4,24.9,21.6,53.6
+       Management occupations,20567,8317,4856,3461,12250,100,40.4,23.6,16.8,59.6
+       Business and financial operations occupations,9530,5660,2632,3028,3870,100,59.4,27.6,31.8,40.6
+    Professional and related occupations,38820,13125,7554,5571,25695,100,33.8,19.5,14.4,66.2
+       Computer and mathematical occupations,6186,4441,1926,2515,1746,100,71.8,31.1,40.6,28.2
+       Architecture and engineering occupations,3228,1347,884,463,1880,100,41.7,27.4,14.3,58.3
+"       Life, physical, and social science occupations",1722,744,490,254,978,100,43.2,28.5,14.8,56.8
+       Community and social services occupations,2900,1073,793,280,1826,100,37,27.4,9.7,63
+       Legal occupations,1834,1056,691,364,779,100,57.5,37.7,19.9,42.5
+"       Education, training, and library occupations",9564,1438,1111,327,8126,100,15,11.6,3.4,85
+"       Arts, design, entertainment, sports, and media occupations",3555,1662,793,869,1893,100,46.7,22.3,24.4,53.3
+       Healthcare practitioners and technical occupations,9832,1364,865,499,8467,100,13.9,8.8,5.1,86.1
+Service occupations,26229,1506,676,830,24723,100,5.7,2.6,3.2,94.3
+    Healthcare support occupations,5517,507,118,390,5009,100,9.2,2.1,7.1,90.8
+    Protective service occupations,3183,230,157,73,2953,100,7.2,4.9,2.3,92.8
+    Food preparation and serving related occupations,7751,133,90,43,7617,100,1.7,1.2,0.6,98.3
+    Building and grounds cleaning and maintenance occupations,5661,205,169,36,5456,100,3.6,3,0.6,96.4
+    Personal care and service occupations,4117,430,142,288,3688,100,10.4,3.5,7,89.6
+Sales and office occupations,28776,7601,3475,4126,21176,100,26.4,12.1,14.3,73.6
+     Sales and related occupations,13344,3357,1726,1631,9987,100,25.2,12.9,12.2,74.8
+    Office and administrative support occupations,15432,4243,1748,2495,11189,100,27.5,11.3,16.2,72.5
+"Natural resources, construction, and maintenance occupations",14136,526,336,190,13610,100,3.7,2.4,1.3,96.3
+"    Farming, fishing, and forestry occupations",1023,48,21,28,974,100,4.7,2,2.7,95.3
+    Construction and extraction occupations,8299,244,176,69,8055,100,2.9,2.1,0.8,97.1
+"    Installation, maintenance, and repair occupations",4815,233,140,94,4581,100,4.8,2.9,1.9,95.2
+"Production, transportation, and material moving occupations",19270,606,291,315,18664,100,3.1,1.5,1.6,96.9
+    Production occupations,7462,349,156,193,7113,100,4.7,2.1,2.6,95.3
+    Transportation and material moving occupations,11809,257,135,122,11552,100,2.2,1.1,1,97.8
+Agriculture and related industries,2228,305,117,188,1923,100,13.7,5.2,8.4,86.3
+Nonagricultural industries,155101,37035,19703,17332,118066,100,23.9,12.7,11.2,76.1
+"    Mining, quarrying, and oil and gas extraction",593,93,71,23,500,100,15.7,11.9,3.8,84.3
+    Construction,12056,1256,804,451,10800,100,10.4,6.7,3.7,89.6
+    Manufacturing,14330,2858,1754,1104,11473,100,19.9,12.2,7.7,80.1
+       Durable goods manufacturing,9288,1954,1170,784,7334,100,21,12.6,8.4,79
+       Nondurable goods manufacturing,5042,903,583,320,4139,100,17.9,11.6,6.3,82.1
+    Wholesale and retail trade,18616,2673,1482,1190,15943,100,14.4,8,6.4,85.6
+       Wholesale trade,2947,809,463,346,2138,100,27.5,15.7,11.8,72.5
+       Retail trade,15669,1864,1020,844,13806,100,11.9,6.5,5.4,88.1
+    Transportation and utilities,9488,1130,688,442,8358,100,11.9,7.3,4.7,88.1
+       Transportation and warehousing,8132,752,390,362,7380,100,9.2,4.8,4.5,90.8
+       Utilities,1356,378,298,80,978,100,27.9,22,5.9,72.1
+    Information,2731,1442,688,754,1289,100,52.8,25.2,27.6,47.2
+    Financial activities,10402,5995,2878,3117,4407,100,57.6,27.7,30,42.4
+       Finance and insurance,7257,4625,2083,2542,2632,100,63.7,28.7,35,36.3
+       Real estate and rental and leasing,3145,1370,795,575,1775,100,43.6,25.3,18.3,56.4
+    Professional and business services,21228,10133,4408,5726,11094,100,47.7,20.8,27,52.3
+       Professional and technical services,13626,8483,3699,4783,5143,100,62.3,27.2,35.1,37.7
+"       Management, administrative, and waste services",7602,1651,708,942,5952,100,21.7,9.3,12.4,78.3
+    Education and health services,36481,6686,4018,2668,29795,100,18.3,11,7.3,81.7
+       Educational services,14235,2424,1822,602,11810,100,17,12.8,4.2,83
+       Health care and social assistance,22246,4262,2196,2066,17985,100,19.2,9.9,9.3,80.8
+          Hospitals,7111,1121,611,510,5990,100,15.8,8.6,7.2,84.2
+"          Health services, except hospitals",11419,2148,1097,1050,9271,100,18.8,9.6,9.2,81.2
+          Social assistance,3717,993,488,505,2724,100,26.7,13.1,13.6,73.3
+    Leisure and hospitality,13453,1224,694,530,12229,100,9.1,5.2,3.9,90.9
+"       Arts, entertainment, and recreation",3333,725,369,356,2608,100,21.7,11.1,10.7,78.3
+       Accommodation and food services,10120,500,326,174,9621,100,4.9,3.2,1.7,95.1
+    Other services,7705,1359,781,578,6347,100,17.6,10.1,7.5,82.4
+"       Other services, except private households",7089,1288,759,529,5801,100,18.2,10.7,7.5,81.8
+       Private households,616,70,22,48,546,100,11.4,3.6,7.8,88.6
+    Public administration,8017,2186,1437,749,5831,100,27.3,17.9,9.3,72.7
+"Wage and salary workers, excluding incorporated self-employed",141185,31364,17038,14326,109821,100,22.2,12.1,10.1,77.8
+    Private industries,119526,27224,14197,13027,92302,100,22.8,11.9,10.9,77.2
+    Government,21659,4140,2841,1299,17519,100,19.1,13.1,6,80.9
+       Federal,4215,1390,868,522,2826,100,33,20.6,12.4,67
+       State,7270,1717,1201,517,5552,100,23.6,16.5,7.1,76.4
+       Local,10174,1032,772,260,9141,100,10.1,7.6,2.6,89.9
+Self-employed workers,16090,5960,2779,3181,10130,100,37,17.3,19.8,63
+"    Self-employed workers, incorporated",6760,2839,1444,1395,3921,100,42,21.4,20.6,58
+"    Self-employed workers, unincorporated",9330,3121,1336,1786,6209,100,33.5,14.3,19.1,66.5
