@@ -1,0 +1,13 @@
+name: telework_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - pip
+  - pip:
+      - anyio==3.6.2
